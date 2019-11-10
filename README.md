@@ -223,9 +223,26 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(95).pdf" style="text-decoration:none;">Nudge: Improving Decisions About Health, Wealth, and Happiness</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(96).pdf" style="text-decoration:none;">1001 Facts About Dinosaurs</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(97).pdf" style="text-decoration:none;">Dinosaurs Without Bones: Dinosaur Lives Revealed by Their Trace Fossils</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(98).pdf" style="text-decoration:none;">Dinosaurs by the Decades</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(99).pdf" style="text-decoration:none;">Digging Dinosaurs</a></b></li>
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(100).pdf" style="text-decoration:none;">Relativity: The Special and the General Theory</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(101).pdf" style="text-decoration:none;">Ideas and Opinions</a></b></li>
+
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(102).pdf" style="text-decoration:none;">Moonwalking with Einstein</a></b></li>
   
 
 </ul>
