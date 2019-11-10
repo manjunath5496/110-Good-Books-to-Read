@@ -94,6 +94,80 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(36).pdf" style="text-decoration:none;">The Tao Te Ching </a></b></li>
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(37).pdf" style="text-decoration:none;">Moby Dick</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(38).pdf" style="text-decoration:none;">Anna Karenina</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(39).pdf" style="text-decoration:none;">Invisible Man </a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(40).pdf" style="text-decoration:none;"> The Meaning of Relativity</a></b></li>
+                               
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(41).pdf" style="text-decoration:none;">Pocket Medicine</a></b></li>   
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(42).pdf" style="text-decoration:none;">Stiff: The Curious Lives of Human Cadavers</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(43).pdf" style="text-decoration:none;">Great Expectations</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(44).pdf" style="text-decoration:none;">The Stranger</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(45).pdf" style="text-decoration:none;">Lolita </a></b></li>
+
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(46).pdf" style="text-decoration:none;">The Great Gatsby</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(47).pdf" style="text-decoration:none;">Ninety Eighty Four</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(48).pdf" style="text-decoration:none;">Middlemarch</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(49).pdf" style="text-decoration:none;"> The Lord of the Rings</a></b></li>
+                               
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(50).pdf" style="text-decoration:none;">The Hunger Games </a></b></li>   
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(51).pdf" style="text-decoration:none;">Pale Fire</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(16).pdf" style="text-decoration:none;">Being Mortal: Medicine and What Matters in the End</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(17).pdf" style="text-decoration:none;">God: The Failed Hypothesis ― How Science Shows That God Does Not Exist </a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(18).pdf" style="text-decoration:none;">The Road to Reality: A Complete Guide to the Laws of the Universe </a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(19).pdf" style="text-decoration:none;">The Republic</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(20).pdf" style="text-decoration:none;">A Beautiful Mind</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(21).pdf" style="text-decoration:none;">Fahrenheit 451  </a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(22).pdf" style="text-decoration:none;"> I, Robot</a></b></li>
+                               
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(23).pdf" style="text-decoration:none;">The Bell Jar </a></b></li>   
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(24).pdf" style="text-decoration:none;">Neuromancer</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(25).pdf" style="text-decoration:none;">Chaos: Making a New Science</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(26).pdf" style="text-decoration:none;">Capital: A Critique of Political Economy</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(27).pdf" style="text-decoration:none;">Ender's Game</a></b></li>
+
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(28).pdf" style="text-decoration:none;">Hyperion</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(29).pdf" style="text-decoration:none;">Frankenstein</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(30).pdf" style="text-decoration:none;">The Alchemist</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(31).pdf" style="text-decoration:none;"> Red Mars</a></b></li>
+                               
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(32).pdf" style="text-decoration:none;">Solaris </a></b></li>   
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(33).pdf" style="text-decoration:none;">The Man Who Knew Infinity</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(34).pdf" style="text-decoration:none;">A History of Mathematics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(35).pdf" style="text-decoration:none;">Bhagavad Gita </a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(36).pdf" style="text-decoration:none;">The Tao Te Ching </a></b></li>
 
 
 
