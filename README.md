@@ -188,11 +188,24 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(82).pdf" style="text-decoration:none;">Pragmatic Programmer, The: From Journeyman to Master</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(83).pdf" style="text-decoration:none;">The Clean Coder</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(84).pdf" style="text-decoration:none;">Pro Git</a></b></li>
+
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(85).pdf" style="text-decoration:none;">The Little Schemer</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(86).pdf" style="text-decoration:none;">Deep Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(87).pdf" style="text-decoration:none;">Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(88).pdf" style="text-decoration:none;">Blink: The Power of Thinking Without Thinking</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(89).pdf" style="text-decoration:none;">The Case for God</a></b></li>
 
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(90).pdf" style="text-decoration:none;">The Glass Castle: A Memoir</a></b></li>
 
 
   
