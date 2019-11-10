@@ -169,8 +169,24 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(73).pdf" style="text-decoration:none;">Incognito: The Secret Lives of The Brain</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(74).pdf" style="text-decoration:none;"> The Secret</a></b></li>
+                               
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(75).pdf" style="text-decoration:none;">Ayurveda For Dummies</a></b></li>   
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(76).pdf" style="text-decoration:none;">Trick Or Treatment?: Alternative Medicine on Trial</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(77).pdf" style="text-decoration:none;">Heart of Darkness</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(78).pdf" style="text-decoration:none;">The Problems of Philosophy</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(79).pdf" style="text-decoration:none;">Theaetetus</a></b></li>
+
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(80).pdf" style="text-decoration:none;">Apology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(81).pdf" style="text-decoration:none;">Refactoring: Improving the Design of Existing Code</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(82).pdf" style="text-decoration:none;">Pragmatic Programmer, The: From Journeyman to Master</a></b></li>
 
 
 
