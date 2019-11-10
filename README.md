@@ -207,6 +207,24 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(90).pdf" style="text-decoration:none;">The Glass Castle: A Memoir</a></b></li>
 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(91).pdf" style="text-decoration:none;">The Big Short: Inside the doomsday machine</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(92).pdf" style="text-decoration:none;">Why Nations Fail</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(93).pdf" style="text-decoration:none;">Jane Eyre</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(94).pdf" style="text-decoration:none;">Freakonomics</a></b></li>
+
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/110-Good-Books-to-Read/blob/master/bn(95).pdf" style="text-decoration:none;">Nudge: Improving Decisions About Health, Wealth, and Happiness</a></b></li>
+
+
+
+
 
   
 
